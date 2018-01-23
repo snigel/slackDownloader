@@ -4,7 +4,7 @@ import requests
 import time
 from slacker import Slacker
 
-#token='your-token-goes-here'
+token='your-token-goes-here'
 slack = Slacker(token)
 
 #Get users
